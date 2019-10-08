@@ -8,5 +8,10 @@
         "name":"koolproxy",
         "version":"2.0",
         "info":"强力去广告"
+    },
+    {
+        "name":"testplugin",
+        "version":"1.0",
+        "info":"测试插件"
     }
 ]]
