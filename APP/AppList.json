@@ -1,10 +1,10 @@
-[[{
-    "name":"shadowsocks",
-    "version":"3.3.1",
-    "info":"强力梯子"
-  },
-  {
-    "name":"koolproxy",
-    "version":"2.0",
-    "info":"强力去广告"
+[[
+    "shadowsocks":
+    {
+        "version":"3.3.1",
+        "info":"强力梯子"
+    },
+    "koolproxy":{
+        "version":"2.0",
+        "info":"强力去广告"
   }]]
