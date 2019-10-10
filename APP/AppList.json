@@ -1,15 +1,18 @@
 [[
     {
+        "id":"815FD83CCCE65E5F",
         "name":"shadowsocks",
         "version":"1.0",
         "info":"强力梯子"
     },
     {
+        "id":"39ABB1B6C74248E4",
         "name":"koolproxy",
         "version":"2.0",
         "info":"强力去广告"
     },
     {
+        "id":"C16B10DFF1E61BB1",
         "name":"testplugin",
         "version":"1.0",
         "info":"测试插件"
